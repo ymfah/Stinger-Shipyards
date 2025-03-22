@@ -1,0 +1,10 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/ymfah/Stinger-Shipyards/main/stingershipyards.version",
+  "modName": "Stinger Shipyards",
+  "modVersion":
+    {
+      "major": 0,
+      "minor": 8,
+      "patch": 3
+    },
+}
