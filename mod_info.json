@@ -1,0 +1,11 @@
+{
+	"id": "hakkari3",
+	"name": "Stinger Shipyards",
+	"author": "turkler",
+	"version": "8.2.0",
+	"utility": "false",
+	"description": "it was my decision to get clean, I did it for me",
+	"gameVersion": "0.97",
+	"jars": ["jars/sex.jar"],
+	"modPlugin":"data.scripts.sex_modPlugin",
+}

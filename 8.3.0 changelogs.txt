@@ -1,0 +1,21 @@
+[Ships]
+- Puppy-class Frigate
+	- Now leaves a phase jitter on every phase skim instead of just one.
+	- Phase jitter now works even if multiple Puppy-class frigates are deployed.
+	- With this patch, players can now use as many Rosalina-type design ships as they want!
+
+[Bug Fixes]
+
+- Fixed a typo that prevented the description of the Dynamic Stabilizer from appearing.
+
+[Campaign]
+
+- Commissioned players can now obtain Rosalina and the Godmother as contacts.
+	- Rosalina: Requires a commission and 20+ relations.
+	- Euterpe: Requires a commission and 50+ relations.
+
+[Misc]
+
+- Added descriptions to the following ships: Aphrodite, Catalyst, Desperado, Puppy, Lollipop
+- Added descriptions to the following system: Quantum Cascade
+- Added version checker support

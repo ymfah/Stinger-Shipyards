@@ -1,0 +1,9 @@
+[Bug Fixes]
+Fixed a bug where the Broodmother and Grande Dame ship spawner would take up DP from the enemy instead of yours.
+Fixed a bug where Maxios would go over the industry limit and diciving.
+Fixed a bug where colony admin would have blank portraits.
+
+[Content Restoration]
+Rosalina-spec Prototypes can now be acquired through blueprints and black market deals.
+Added back Euterpe, Rosalina, Mari, Barker, and Asuka as the colony admin.
+Updated sprite for Broodmother.

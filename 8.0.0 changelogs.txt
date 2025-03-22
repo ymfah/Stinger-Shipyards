@@ -1,0 +1,43 @@
+Updated to the most recent version of Starsector.
+
+Added a new industry, the Tea Culture, which increases income by 8% for every unit of food produced locally. One is present in a SEx Co. planet, it is not buildable as the associated story quest was canceled.
+
+Added several new ships:
+ - Erubetie-class Phase Cruiser.
+ - Grandine-class Phase Freighter.
+ - Martinet-class Destroyer.
+ - Brawler (XIV)-class Gunship.
+ ...several prototype ships obtainable from a certain Rosalina and three new remnant threats for you to discover.
+ 
+Massive reworks of many ships. Fleet points of many SEx Co. company ships have been brought up to reflect their combat abilities. Some remnant hulls have had their stats shuffled around to make them more fun to fight against. Many other ships have had their sprites retouched.
+
+A few select ships with little to no reason to exist have been removed. These being...
+ - Morrigan-class Drone Tender
+ - Heifer-class Tug
+
+Brand new submarket variants for the Sindrian Diktat, the Hegemony and the Luddic Path.
+ - The Sindrian Diktat offers a variety of elite Lion's Guard equipment to commissioned admirals within their military markets, with better hardware being unlocked for sale as you improve your standing with the faction. even experimental weapons can be purchased with the right connections and a hefty sum of credits.
+ - Commissioned members of the Hegemony may use their influence to gain access to surplus market of elite XIV hardware.
+ 
+Several independent planets have been given small gimmicks/minor features to make each one stand out.
+ - Nova Maxios has been given a unique defense force named the Nova Auxilia.
+ - Nomios has been given a custom submarket along with a handful of lines of lore to flesh out the planet's MGA ownership.
+ - Agreus has been given several new ship variants as its patrols to make the planet's Ko Combine ownership more apparent.
+ - Orthrus, in vanilla, doesn't even have a custom description. I decided to make it the new resting place of the Eridani-Utopia corporation after the fall of Qaras. This planet gets a unique Cartographers' Guild feature, where you can sell survey data to the company at 1.5x its base value.
+ 
+Removed the Pre-Collapse Fabricators industry from Ankara and replaced it with a custom condition instead. 
+- This condition also has campaign layer representation.
+
+Added a new condition, Militant Population, exclusive to SEx Co. markets. This condition buffs the mostly-weak ground defenes of the planets it is present in.
+
+For Nexerelin users, SEx Co. has had its faction traits adjusted. The company will now avoid starting wars and will prefer defense over offense.
+
+Added simulation opponent variants.
+
+Updated the title screen banners with the mod's new logo.
+
+Several ships have been rebalanced.
+
+Many, many bug fixes. Too many to list.
+
+

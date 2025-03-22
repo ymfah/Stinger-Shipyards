@@ -1,0 +1,65 @@
+ / / Credits / /
+
+- willthefunperson -
+Scripted the hospital ship hullmod. 
+Scripted the wreck spawning mechanics of the Junk Belt.
+Helped me set up a custom submarket system.
+Helped me figure out rules.csv conversations.
+Helped me set up mission intels.
+
+ - 123nick -
+Wrote the inital version of the title screen banner display script.
+Wrote the ship picker script.
+They also helped me with various minor things, big props to them.
+
+ - Arthr -
+Helped with many sprites, made the right click orion drive AI.
+
+ - MiniDeth3 -
+Polished and practically remastered some of my sprites.
+
+ - Protonus -
+Gave me permission to use their Starliner sprite along with various bits to kitbash with.
+
+ - Mr. Kamiguru -
+Gave me permission to use their Mora sprite.
+
+ - DrakonST -
+Spiraled arms sprites.
+
+ - Flans Nundernail -
+Helped with kitbashing.
+
+ - TomatoPaste -
+Gave me permission to use their sprites to kitbash with. Made the star system template used in Stinger Shipyards.
+
+ - LazyWizard -
+Borrowing some important backend utility scripts, allowed as per LazyLib's license.
+
+ - MirageComedy -
+Drew my shipgirls.
+
+ - shoi -
+Gave me permission to use their weapon scripts.
+
+"Night on the Docks - Sax" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Night on the Docks - Trumpet" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Night on the Docks - Piano" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/.
+
+
+
+ / / Honorable Mentions / /
+ 
+ - friendlyrogueai -
+Drew fanart of Euterpe.
+
+ - Eissomer_Nyto -
+Drew fanart of Euterpe.
