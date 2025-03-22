@@ -1,5 +1,6 @@
 {
   "masterVersionFile": "https://raw.githubusercontent.com/ymfah/Stinger-Shipyards/main/stingershipyards.version",
+"changelogURL": "https://raw.githubusercontent.com/ymfah/Stinger-Shipyards/main/changelog.txt",
   "modName": "Stinger Shipyards",
   "modVersion":
     {
