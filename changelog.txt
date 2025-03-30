@@ -1,8 +1,11 @@
-[8.4.0]
+[8.5.0]
+
+[General]
+- Updated for Starsector 0.98a-RC5
+- Compiled to JRE 17
 
 [Bugs]
 - Fixed CTD on Linux (Case sensitivity _LG ships).
-- Fixed CTD when certain planets deciv or doesn't exist.
 
 [Improvements]
 - Improved the beam effect, overload sound effect, and description of the Ship Cracker (Built in on Catalyst class).
