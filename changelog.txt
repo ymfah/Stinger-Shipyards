@@ -1,3 +1,9 @@
+[8.6.0]
+
+[Bugs]
+- Fixed CTD on Linux for REAL this time hopefully (Case sensitivity _LG ships).
+- Added compatability check for Nexerelin random sector (patch by willthefunperson)
+
 [8.5.0]
 
 [General]
